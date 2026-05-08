@@ -11,8 +11,8 @@ Follow these steps:
 2. Download the file and save it onto a USB drive. 
 3. Plug the USB into the laptop/PC with the dead CMOS. 
 4. Import/Copy the file to the local drive before running. Note: This script will force the time to stay correct even if the internal battery can't save it during reboots.
-## ✨ Features * Auto-Installer: 
-Automatically creates a Windows Task Scheduler entry on the first run. 
+## ✨ Features 
+* Auto-Installer: Automatically creates a Windows Task Scheduler entry on the first run. 
 * AC/Battery Support: Forced to run even when the laptop is not plugged in (overrides default Windows power restrictions). 
 * UAC Bypass: After the first run, it starts at every boot with Admin rights without asking for permission. 
 * Zero UI: No windows, no logs, no taskbar icons. Completely invisible. 
