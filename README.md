@@ -30,5 +30,5 @@ Follow these steps:
 2. Open Command Prompt (Admin) and run: 
 "schtasks /delete /tn "StealthTimeSync" /f"
 [Note: Use with care as this modifies System Registry values to ensure high-frequency time synchronization.] 
-Warning: ***Change the BIOS or UEFI to whatever Windows says after you downloaded this file, as the BIOS/UEFI will still sometimes say the wrong date.***
+Warning: ***Change the BIOS or UEFI to whatever Windows says after you downloaded this file, as the BIOS/UEFI will still sometimes say the wrong date. And if you turn off for a VERY, VERY long time, you'll need internet.***
 Enjoy and ***BYE!***
