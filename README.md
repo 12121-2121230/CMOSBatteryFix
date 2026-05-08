@@ -27,5 +27,7 @@ Follow these steps:
 5. That’s it. The script is now running and scheduled to start every time you turn on your computer.
 *  ## 🛑 How to Remove 
 1. Open Task Manager and end pythonw.exe. 
-2. Open Command Prompt (Admin) and run: schtasks /delete /tn "StealthTimeSync" /f 
-[Note: Use with care as this modifies System Registry values to ensure high-frequency time synchronization.] Enjoy and ***BYE!***
+2. Open Command Prompt (Admin) and run: 
+"schtasks /delete /tn "StealthTimeSync" /f"
+[Note: Use with care as this modifies System Registry values to ensure high-frequency time synchronization.] 
+Enjoy and ***BYE!***
