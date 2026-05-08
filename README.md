@@ -19,8 +19,8 @@ Follow these steps:
 * Dual-Boot Fix: Forces Windows to treat the hardware clock as UTC (Fixes Linux/Windows time mismatch). * Single Instance Lock: Uses a system-level handle to ensure only one copy runs at a time.
 *  ## 🚀 How to Use 
 1. Ensure Python is installed. 
-2. Save the code below as time_sync.pyw. 
-3. Double-click the file. 
+2.Download time_sync.pyw. 
+3. Double-click the file. [Only once]
 4. Click "Yes" on the Windows Admin prompt. 
 5. That’s it. The script is now running and scheduled to start every time you turn on your computer.
 *  ## 🛑 How to Remove 
