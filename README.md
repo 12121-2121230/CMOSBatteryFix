@@ -24,11 +24,11 @@ Follow these steps:
 2. Download time_sync.pyw. 
 3. Double-click the file. [Only once]
 4. Click "Yes" on the Windows Admin prompt. 
-5. That’s it. The script is now running and scheduled to start every time you turn on your computer.
+5. That’s it. The script is now running and scheduled to start every time you turn on your computer. And it is only supported on Windows.
 *  ## 🛑 How to Remove 
 1. Open Task Manager and end pythonw.exe. 
 2. Open Command Prompt (Admin) and run: 
 "schtasks /delete /tn "StealthTimeSync" /f"
 [Note: Use with care as this modifies System Registry values to ensure high-frequency time synchronization.] 
-Warning: ***Change the BIOS or UEFI to whatever Windows says, as the BIOS/UEFI will still sometimes say the wrong date.***
+Warning: ***Change the BIOS or UEFI to whatever Windows says after you downloaded this file, as the BIOS/UEFI will still sometimes say the wrong date.***
 Enjoy and ***BYE!***
