@@ -16,7 +16,8 @@ Follow these steps:
 * AC/Battery Support: Forced to run even when the laptop is not plugged in (overrides default Windows power restrictions). 
 * UAC Bypass: After the first run, it starts at every boot with Admin rights without asking for permission. 
 * Zero UI: No windows, no logs, no taskbar icons. Completely invisible. 
-* Dual-Boot Fix: Forces Windows to treat the hardware clock as UTC (Fixes Linux/Windows time mismatch). * Single Instance Lock: Uses a system-level handle to ensure only one copy runs at a time.
+* Dual-Boot Fix: Forces Windows to treat the hardware clock as UTC (Fixes Linux/Windows time mismatch).
+* Single Instance Lock: Uses a system-level handle to ensure only one copy runs at a time.
 *  ## 🚀 How to Use 
 1. Ensure Python is installed. 
 
